@@ -6,4 +6,4 @@ input: python3 YoutubeViewsScraper.py "## Link To Video ##" (replace ## Link To 
 
 Quote Scraper: Scrapes Quotes from quotes.toscrape.com
 
-GuoteScrapertocsv: exports results of Quote Scraper to a csv file
+GuoteScrapertocsv: exports results of Quote Scraper to a csv file.
